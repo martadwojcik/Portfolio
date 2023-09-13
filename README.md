@@ -37,8 +37,8 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 
 ## My Test Documentation
 
-* Test cases on TestRail [Test cases](https://www.)
-* Bug report on Jira [Bug report](https://www.)
+* Test cases on TestRail [Test cases](https://www.test)
+* Bug report on Jira [Bug report](https://www.bug)
 
 ## Projects
 
