@@ -19,12 +19,12 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 
 ## SKILLS
 
-* creating test scenario and test cases
-* detailed bug reporting in Jira
-* mobile and web application testing
-* database testing
+* Creating test scenario and test cases
+* Detailed bug reporting in Jira
+* Mobile and web application testing
+* Database testing
 * REST API testing
-* knowledge of ISTQB, UX/UI design
+* Knowledge of ISTQB, UX/UI design
 * HTML/CSS basics
 
 ## Courses 
@@ -36,3 +36,9 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 * UX in  business - Strefakursów
 
 ## My Test Documentation
+
+* Test cases
+* Bug report
+
+## Projects
+* My CV in HTML
