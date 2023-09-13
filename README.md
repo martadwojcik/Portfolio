@@ -41,4 +41,5 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 * Bug report
 
 ## Projects
+
 * My CV in HTML
