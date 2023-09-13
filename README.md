@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a beginner software tester. I worked as an architect before. However, I have decided to change my professional career and meet the new challenge. I aspire to develop and gain experience as a software tester. 
+I am a beginner software tester. I worked as an architect before. However, I have decided to change my professional career and meet the new challenge. I aspire to develop and gain experience as a software tester. I am continually expanding my knowledge in the field of testing.
 
 ## TOOLS
 
@@ -37,8 +37,8 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 
 ## My Test Documentation
 
-* Test cases on TestRail
-* Bug report on Jira
+* Test cases on TestRail [Test cases](https://www.)
+* Bug report on Jira [Bug report](https://www.)
 
 ## Projects
 
