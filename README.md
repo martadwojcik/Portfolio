@@ -39,8 +39,8 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 
 * Test cases 1 on TestRail [Test cases 1](https://drive.google.com/file/d/1UJ3CYiictDYYXqUHq0aKcyGH0AXOtHFC/view?usp=sharing)
 * Bug report 1 on Jira [Bug report 1](https://drive.google.com/file/d/1KutmjCM6jMKmy3dGrwnRaKIO3q0bBuxe/view?usp=sharing)
-* Test cases 2 on TestRail [Test cases 2](https://)
-* Bug report 2 on Jira [Bug report 2](https://)
+* Test cases 2 on TestRail [Test cases 2](https://drive.google.com/file/)
+* Bug report 2 on Jira [Bug report 2](https://drive.google.com/file/)
   
 ## Projects
 
