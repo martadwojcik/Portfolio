@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-## About me
+## ABOUT ME
 
 I am a beginner software tester. I worked as an architect before. However, I have decided to change my professional career and meet the new challenge. I aspire to develop and gain experience as a software tester. I am continually expanding my knowledge in the field of testing.
 
@@ -27,7 +27,7 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 * Knowledge of ISTQB, UX/UI design
 * HTML/CSS basics
 
-## Courses 
+## COURSES 
 
 * Practical software testing course - Udemy
 * Codefest Quality Assurance - GoIT
@@ -35,7 +35,7 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 * Basics of Scrum and Agile - Udemy
 * UX in  business - Strefakursów
 
-## My Test Documentation
+## MY TEST DOCUMENTATION
 
 * Test documentation 1
   * Test plan [Test plan 1](https://drive.google.com/file/d/1BdgJjfic0DNZm4SuAR8QAFqrmhW5du4c/view?usp=sharing)
@@ -48,11 +48,11 @@ I am a beginner software tester. I worked as an architect before. However, I hav
   * Bug report on Jira [Bug report 2](https://drive.google.com/xxx)
   * Test raport [Test raport 2](https://drive.google.com/file/d/)
   
-## Projects
+## PROJECTS
 
 * My CV in HTML [CV](https://martawojcik.netlify.app)
 
-## Books
+## BOOKS
 
 * Zawód Tester - R.Smilgin
 * Praktyka testowania - R.Smilgin
