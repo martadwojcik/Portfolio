@@ -37,16 +37,16 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 
 ## My Test Documentation
 
-* Project 1 - website
-  * Test plan 1 [Test plan 1](https://drive.google.com/file/d/1YaDYU7jEzE_3EeMsD6k09LwiZc3JAB-z/view?usp=sharing)
-  * Test scenario 1 [Test scenario 1](https://drive.google.com/file/d/1QEPilAkvnxWWg5CtiD_4obq_waHy3JmQ/view?usp=sharing)
-  * Test cases 1 on TestRail [Test cases 1](https://drive.google.com/file/d/13IKNqZGbhMb-hYH69H1r9wg7R2XJS3uc/view?usp=sharing)
-  * Bug report 1 on Jira [Bug report 1](https://drive.google.com/file/d/1RDX3Fp_nG7UBeFmoLOMFKau4-T25T2z_/view?usp=sharing)
+* Test dokumentation 1
+  * Test plan [Test plan 1](https://drive.google.com/file/d/1BdgJjfic0DNZm4SuAR8QAFqrmhW5du4c/view?usp=sharing)
+  * Test scenario [Test scenario 1](https://drive.google.com/file/d/1V0HEhAmKgA_yWwO85o8b1gu76hrvdN-q/view?usp=sharing)
+  * Test cases on TestRail [Test cases 1](https://drive.google.com/file/d/17dMudKN2WFuGDpqDeOd7_jnGgXJDaakU/view?usp=sharing)
+  * Bug report on Jira [Bug report 1](https://drive.google.com/file/d/1J6fyQLLCwSpQ2rKg_LZrR2uGplWjrSec/view?usp=sharing)
 
-* Project 2 - web application
-  * Test cases 2 on TestRail [Test cases 2](https://drive.google.com/xxx)
-  * Bug report 2 on Jira [Bug report 2](https://drive.google.com/xxx)
-  * Test raport 2 [Test raport 2](https://drive.google.com/file/d/)
+* Test dokumentation 2
+  * Test cases on TestRail [Test cases 2](https://drive.google.com/xxx)
+  * Bug report on Jira [Bug report 2](https://drive.google.com/xxx)
+  * Test raport [Test raport 2](https://drive.google.com/file/d/)
   
 ## Projects
 
