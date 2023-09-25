@@ -17,14 +17,15 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 * Figma
 * Microsoft Office
 
-## SKILLS
+## TECH SKILLS
 
 * Creating test scenario and test cases
 * Detailed bug reporting in Jira
 * Mobile and web application testing
 * Database testing
 * REST API testing
-* Knowledge of ISTQB, UX/UI design
+* Knowledge of Syllabus ISTQB Foundation level
+* Knowledge about UX/UI design
 * HTML/CSS basics
 
 ## COURSES 
