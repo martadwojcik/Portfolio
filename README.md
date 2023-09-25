@@ -1,4 +1,4 @@
-# Portfolio
+# PORTFOLIO
 
 ## About me
 
@@ -37,13 +37,13 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 
 ## My Test Documentation
 
-* Test dokumentation 1
+* Test documentation 1
   * Test plan [Test plan 1](https://drive.google.com/file/d/1BdgJjfic0DNZm4SuAR8QAFqrmhW5du4c/view?usp=sharing)
   * Test scenario [Test scenario 1](https://drive.google.com/file/d/1V0HEhAmKgA_yWwO85o8b1gu76hrvdN-q/view?usp=sharing)
   * Test cases on TestRail [Test cases 1](https://drive.google.com/file/d/17dMudKN2WFuGDpqDeOd7_jnGgXJDaakU/view?usp=sharing)
   * Bug report on Jira [Bug report 1](https://drive.google.com/file/d/1J6fyQLLCwSpQ2rKg_LZrR2uGplWjrSec/view?usp=sharing)
 
-* Test dokumentation 2
+* Test documentation 2
   * Test cases on TestRail [Test cases 2](https://drive.google.com/xxx)
   * Bug report on Jira [Bug report 2](https://drive.google.com/xxx)
   * Test raport [Test raport 2](https://drive.google.com/file/d/)
