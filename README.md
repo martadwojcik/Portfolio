@@ -54,6 +54,6 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 
 ## BOOKS
 
-* Zawód Tester - R.Smilgin
-* Praktyka testowania - R.Smilgin
-* Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania - K.Zmitrowicz
+* Zawód Tester - R. Smilgin
+* Praktyka testowania - R. Smilgin
+* Tester oprogramowania. Przygotowanie do egzaminu z testowania oprogramowania - K. Zmitrowicz
