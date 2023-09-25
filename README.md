@@ -43,8 +43,8 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 * Bug report 1 on Jira [Bug report 1](https://drive.google.com/file/d/1RDX3Fp_nG7UBeFmoLOMFKau4-T25T2z_/view?usp=sharing)
 * Test raport 1 [Test raport 1](https://drive.google.com/file/d/1YaDYU7jEzE_3EeMsD6k09LwiZc3JAB-z/view?usp=sharin)
 
-* Test cases 2 on TestRail [Test cases 2](https://drive.google.com/file/)
-* Bug report 2 on Jira [Bug report 2](https://drive.google.com/file/)
+* Test cases 2 on TestRail [Test cases 2](https://drive.google.com/)
+* Bug report 2 on Jira [Bug report 2](https://drive.google.com/)
   
 ## Projects
 
