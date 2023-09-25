@@ -41,7 +41,16 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 * Test scenario 1 [Test scenario 1](https://drive.google.com/file/d/1QEPilAkvnxWWg5CtiD_4obq_waHy3JmQ/view?usp=sharing)
 * Test cases 1 on TestRail [Test cases 1](https://drive.google.com/file/d/13IKNqZGbhMb-hYH69H1r9wg7R2XJS3uc/view?usp=sharing)
 * Bug report 1 on Jira [Bug report 1](https://drive.google.com/file/d/1RDX3Fp_nG7UBeFmoLOMFKau4-T25T2z_/view?usp=sharing)
+
+* Test cases 2 on TestRail [Test cases 2]
+* Bug report 2 on Jira [Bug report 2]
   
 ## Projects
 
 * My CV in HTML [CV](https://martawojcik.netlify.app)
+
+## Books
+
+* Zawód Tester - R.Smilgin
+* Praktyka testowania - R.Smilgin
+* Tester oprogramowania - K.Zmitrowicz
