@@ -16,6 +16,7 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 * Visual Studio Code
 * Figma
 * Microsoft Office
+* Chrome DevTools
 
 ## TECH SKILLS
 
