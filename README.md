@@ -30,6 +30,7 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 * Knowledge about UX/UI design
 * HTML/CSS basics
 * Java basic
+* Javascript basic
 
 ## COURSES 
 
