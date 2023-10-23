@@ -34,7 +34,7 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 
 ## COURSES 
 
-* Practical software testing course - Udemy
+* Practical software testing course - Udemy [certyfikat](https://drive.google.com/file/d/1K8soO82AobrtG5feX1JElaL0xRQ_5c19/view?usp=sharing)
 * Codefest Quality Assurance - GoIT
 * Codefest HTML+CSS - GoIT
 * Basics of Scrum and Agile - Udemy
