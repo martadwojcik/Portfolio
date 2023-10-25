@@ -29,6 +29,7 @@ I am a beginner software tester. I worked as an architect before. However, I hav
 * Knowledge of Syllabus ISTQB Foundation level
 * Knowledge about UX/UI design
 * HTML/CSS basics
+* Knowledge of Agile methodologies
 * Java basic
 * Javascript basic
 
